@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ShMapEffect.qml</file>
+        <file>ShMapFrameGraph.qml</file>
+        <file>ShMapLight.qml</file>
+        <file>ShMapMaterial.qml</file>
+        <file>shaders/shadowmap.vert</file>
+        <file>shaders/shadowmap.frag</file>
+        <file>shaders/renderingShadows.vert</file>
+        <file>shaders/renderingShadows.frag</file>
+        <file>ShMapTexMaterial.qml</file>
+        <file>shaders/texRenderingShadows.frag</file>
+        <file>ShMapTexEffect.qml</file>
+        <file>shaders/xfilter.frag</file>
+        <file>shaders/xfilter.vert</file>
+        <file>shaders/yfilter.vert</file>
+        <file>shaders/yfilter.frag</file>
+        <file>shaders/fxaa.vert</file>
+        <file>shaders/fxaa.frag</file>
+        <file>Car.qml</file>
+        <file>objects/car-parts/body.obj</file>
+        <file>Road.qml</file>
+        <file>objects/road.png</file>
+        <file>objects/road.obj</file>
+        <file>objects/car-parts/windows.obj</file>
+        <file>objects/car-parts/wheels.obj</file>
+        <file>objects/car-parts/logo2.obj</file>
+        <file>objects/car-parts/logo1.obj</file>
+        <file>objects/car-parts/lights2.obj</file>
+        <file>objects/car-parts/lights.obj</file>
+        <file>objects/car-parts/interior.obj</file>
+        <file>objects/car-parts/bottom.obj</file>
+        <file>objects/car-parts/body2.obj</file>
+        <file>objects/logo.png</file>
+    </qresource>
+</RCC>
